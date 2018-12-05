@@ -3,10 +3,12 @@ Instant Privacy Preserving Biometric Authentication
 
 ## How to run:
 
-Type "make all", then "./test" to run the program.
+Type "make all", then "./test" to run.
 
 ## Parameter selection: 
-Comment in and out the parameter set in define.h file.
+There are two parameter sets for 2048-bit biometric and 145832-bit biometric each.
+Comment in/out the corresponding parameter set in define.h file.
+Then run the code.
 
 
 # License
