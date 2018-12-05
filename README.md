@@ -6,7 +6,7 @@ Instant Privacy Preserving Biometric Authentication
 Type "make all", then "./test" to run the program.
 
 ## Parameter selection: 
-#### Comment in and out the parameter set in define.h file.
+Comment in and out the parameter set in define.h file.
 
 
 # License
