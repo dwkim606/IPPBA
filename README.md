@@ -4,6 +4,7 @@ Instant Privacy Preserving Biometric Authentication
 ## How to run:
 
 make all 
+
 ./test
 
 ## Parameter selection: 
