@@ -9,7 +9,6 @@ Type "make all", then "./test" to run.
 Two parameter sets for 2048-bit biometric and 145832-bit biometric each are provided.
 
 Comment in/out the corresponding parameter set in define.h file.
-Then run the code.
 
 
 ## License
