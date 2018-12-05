@@ -1,5 +1,5 @@
 # IPPBA
-Instant Privacy Preserving Biometric Authentication
+This in an example code for Instant Privacy Preserving Biometric Authentication
 
 ## How to run:
 
