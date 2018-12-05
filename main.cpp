@@ -83,7 +83,7 @@ int main() {
 			t1 = chrono::high_resolution_clock::now();
 			int64_t result = Scheme::innerProduct(T, B);
 			t2 = chrono::high_resolution_clock::now();
-			ipTime += chrono::duration_cast<chrono::nanoseconds>(t2 - t1).count();
+			ipTime += chrono::duration_cast<chrono::microseconds>(t2 - t1).count();
 			// Check the result
 			if (ptxtResult != result) {
 				cout << ptxtResult << endl;
