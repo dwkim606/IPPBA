@@ -3,13 +3,10 @@ Instant Privacy Preserving Biometric Authentication
 
 ## How to run:
 
-make all 
-
-./test
+Type "make all", then "./test" to run the binary file.
 
 ## Parameter selection: 
 #### Comment in and out the parameter set in define.h file.
-
 
 
 # License
