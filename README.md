@@ -1,5 +1,5 @@
 # IPPBA
-This in an example code for Instant Privacy Preserving Biometric Authentication.
+This in an example code for Secure Biometric Authentication.
 
 ## How to run
 Type "make all", then "./test" to run.
