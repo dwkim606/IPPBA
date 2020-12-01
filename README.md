@@ -1,4 +1,4 @@
-# IPPBA
+# SBA
 This in an example code for Secure Biometric Authentication.
 
 ## How to run
