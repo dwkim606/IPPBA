@@ -7,7 +7,7 @@
 // parameter set 1 (128bit security on biometric)
 //#define LOGQ 32
 //#define K 2048 // biometric bit
-//#define N 928 // security
+//#define N 1315 // security
 //#define M N + K // n+k
 //#define LOGP 20 // log p
 //#define STDEV 2.39 // error parameter
@@ -17,7 +17,7 @@
 // Parameter Set 2 (128bit security on Biometric)
 #define LOGQ 64
 #define K 145832 // biometric bit
-#define N 1368 // security
+#define N 1925 // security
 #define M N + K // N+K
 #define LOGP 32 // log P
 #define STDEV 295797.828 // error parameter
